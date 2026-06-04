@@ -1,4 +1,3 @@
-# expense-tracker-python
 
 # Expense Tracker Project
 
